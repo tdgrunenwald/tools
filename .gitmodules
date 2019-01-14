@@ -1,0 +1,12 @@
+[submodule "betterlockscreen"]
+	path = betterlockscreen
+	url = https://github.com/pavanjadhaw/betterlockscreen.git
+[submodule "spaceship-prompt"]
+	path = spaceship-prompt
+	url = https://github.com/denysdovhan/spaceship-prompt.git
+[submodule "st"]
+	path = st
+	url = git://git.suckless.org/st
+[submodule "vim-redact-pass"]
+	path = vim-redact-pass
+	url = https://sanctum.geek.nz/code/vim-redact-pass.git
