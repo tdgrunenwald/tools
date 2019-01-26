@@ -6,7 +6,7 @@
 	url = https://github.com/denysdovhan/spaceship-prompt.git
 [submodule "st"]
 	path = st
-	url = git://git.suckless.org/st
+	url = git@github.com:tdgrunenwald/st.git
 [submodule "vim-redact-pass"]
 	path = vim-redact-pass
 	url = https://sanctum.geek.nz/code/vim-redact-pass.git
